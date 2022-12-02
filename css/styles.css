@@ -94,10 +94,8 @@ h3{
   padding: 2%;
 }
 .meet{
-align:center;
-margin-left: 35rem;
-margin-right: 35rem;
-margin-top: 2rem;
+display: block;
+margin:2rem auto 2rem auto;
 }
 .mcontact{
   padding: 2rem;
