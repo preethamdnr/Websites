@@ -64,12 +64,20 @@ h3{
   width: 15%;
   padding: 3%;
   float: left;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  line-height: 1.5rem;
+  color:#40514E;
 }
 .image2{
   height: 10%;
   width: 10%;
   padding: 3%;
   float: left;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  line-height: 1.5rem;
+  color: #40514E;
 }
 .hr{
   border-style:none;
@@ -90,12 +98,22 @@ align:center;
 margin-left: 35rem;
 margin-top: 2rem;
 }
+.mcontact{
+  padding: 2rem;
+}
+.pingpara{
+  color:#40514E;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  line-height: 1.5rem;
+
+}
 .contact{
   background-color:#393E46;
   color: white;
   border-radius: 8%;
-  height: 2rem;
-  width:7rem;
+  height: 3rem;
+  width:8rem;
 }
 .myskills{
   margin-bottom:2rem;
@@ -105,8 +123,8 @@ margin-top: 2rem;
   font-weight: lighter;
   color:#40514E;
   text-align:justify;
-  font-size:0.9rem;
-  padding: 1.5rem;
-  letter-spacing: 1px;
+  padding: 2rem;
+  font-size: 0.9rem;
+  letter-spacing: 0.0625rem;
   line-height: 1.5rem;
 }
