@@ -56,8 +56,11 @@ h3{
   left:20%;
 }
 .programmer{
-  height: 20%;
-  width: 20%
+  height: 35%;
+  width: 35%
+}
+.fsd{
+  font-weight: lighter;
 }
 .image{
   height: 15%;
