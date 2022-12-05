@@ -131,14 +131,16 @@ width: auto;
   margin-bottom:2rem;
 
 }
-.about{
-  font-weight: lighter;
-  color:#40514E;
-  text-align:justify;
-  padding: 2rem;
-  font-size: 0.9rem;
-  letter-spacing: 0.0625rem;
-  line-height: 1.5rem;
+@media screen and (max-width:900px){
+  .about{
+    font-weight: lighter;
+    color:#40514E;
+    text-align:left;
+    padding: 2rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.0625rem;
+    line-height: 1.5rem;
+  }
 }
 .links{
   padding: 2rem;
