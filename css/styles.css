@@ -131,11 +131,11 @@ width: auto;
   margin-bottom:2rem;
 
 }
-@media screen and (max-width:900px){
+@media screen and (max-width:2000px){
   .about{
     font-weight: lighter;
     color:#40514E;
-    text-align:left;
+    text-align:justify;
     padding: 2rem;
     font-size: 0.9rem;
     letter-spacing: 0.0625rem;
